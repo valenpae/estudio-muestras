@@ -5,7 +5,7 @@ archivo de audio (`.m4a`, AAC) con todas sus grabaciones seguidas y un índice
 (`.json`) que dice dónde empieza cada una y para qué notas y fuerzas sirve.
 
 Se sirven con [jsDelivr](https://www.jsdelivr.com/), por versión:
-`https://cdn.jsdelivr.net/gh/valenpae/estudio-muestras@v1/piano.json`
+`https://cdn.jsdelivr.net/gh/valenpae/estudio-muestras@v2/piano.json`
 
 ## Créditos y licencias
 
@@ -17,6 +17,9 @@ Cada una mantiene su licencia.
 | `piano` | [Salamander Grand Piano V3](https://archive.org/details/SalamanderGrandPianoV3) | Alexander Holm | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | `electrico` | [Wurlitzer EP200 (E-Pianos)](https://github.com/sfzinstruments/GregSullivan.E-Pianos) | Greg Sullivan | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | `bajo-dedos` | [Growlybass](https://github.com/sfzinstruments/karoryfer.growlybass) | Karoryfer Lecolds | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `cuerdas` | [VSCO 2 Community Edition](https://versilian-studios.com/vsco-community/) (violines, violas y chelos) | Versilian Studios | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `metales` | [VSCO 2 Community Edition](https://versilian-studios.com/vsco-community/) (trompeta y trombón) | Versilian Studios | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `vibrafono` | [VCSL](https://versilian-studios.com/vcsl/) | Versilian Studios | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | `nylon` | [Spanish Classical Guitar](https://freepats.zenvoid.org/Guitar/acoustic-guitar.html) | FreePats | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 
 Cambios respecto de los originales: se eligió un subconjunto de notas y
